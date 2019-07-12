@@ -1,0 +1,53 @@
+.regularImg img{
+  height: 300px;
+  width: 300px;
+}
+
+.defaultBackground {
+  background-color: #A5B292;
+  color: black;
+}
+
+.greyBackground {
+  background-color: #4C5D5D;
+  color: white;
+}
+
+.darkBackground {
+  background-color: #251E35;
+  color: white;
+}
+
+.hyperlink {
+  color: inherit;
+  font-weight: lighter;
+}
+
+.lightParagraph {
+  background-color: black;
+  opacity: 0.2;
+}
+
+.darkParagraph {
+  background-color: #FFFFFF66;
+
+}
+
+.name {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.squareList {
+  list-style: square inside;
+}
+
+.alphaList {
+  list-style: lower-alpha;
+}
+
+.topnav {
+  background-color: black;
+  border-bottom: 4px solid white;
+  color: white
+}
