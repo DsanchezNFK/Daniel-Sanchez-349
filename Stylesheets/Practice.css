@@ -24,13 +24,11 @@
 }
 
 .lightParagraph {
-  background-color: black;
-  opacity: 0.2;
+  background-color: #FFFFFF22;
 }
 
 .darkParagraph {
-  background-color: #FFFFFF66;
-
+  background-color: #FFFFFF33;
 }
 
 .name {
@@ -49,5 +47,23 @@
 .topnav {
   background-color: black;
   border-bottom: 4px solid white;
-  color: white
+  color: white;
+  padding-top: 0;
+
+}
+
+a:link {
+  color:white
+}
+
+a:visited {
+  color: indigo;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+a:active {
+  color: red;
 }
