@@ -23,6 +23,14 @@
   font-weight: lighter;
 }
 
+.navyParagraph {
+  background-color: #6F7695;
+}
+
+.brownParagraph {
+  background-color: #AF9366;
+}
+
 .lightParagraph {
   background-color: #FFFFFF22;
 }
